@@ -1,4 +1,4 @@
-package me.q9029.app.translator;
+package me.q9029.app.microsoft.translator;
 
 public class SampleMain {
 
@@ -11,5 +11,6 @@ public class SampleMain {
 		String translatedText = service.translate("こんにちは。", "en");
 
 		// write your program
+
 	}
 }

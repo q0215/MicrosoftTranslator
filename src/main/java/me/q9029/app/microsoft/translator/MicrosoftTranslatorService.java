@@ -1,4 +1,4 @@
-package me.q9029.app.translator;
+package me.q9029.app.microsoft.translator;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
